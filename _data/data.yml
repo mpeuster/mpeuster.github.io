@@ -47,9 +47,9 @@ career-profile:
       I am a cloud and network researcher at Paderborn University, Germany. My research focusses on network softwarization
       and in particular on network function virtualization (NFV), software defined networks (SDN), mobile networks and 5G, as well as
       benchmarking and performance prediction of distributed systems. I was involved in several European research and innovation projects,
-      such as [SONATA-NFV](https://sonata-nfv.github.io/) and [5GTANGO](https://5gtango.eu/) as well as industry-supported open-source
+      such as [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/) as well as industry-supported open-source
       projects, such as [OpenSource MANO](https://osm.etsi.org/). I am leading multiple open-source projects such as [Containernet](https://containernet.github.io/) and [SNDZoo](https://sndzoo.github.io/)
-      and have more than ten years experience as software developer in various areas.
+      and have more than ten years of experience as software developer in various areas.
 
       In my spare time I love to ride motorbikes and being an active volunteer firefighter.
       I volunteer at the fire department of the city of [Paderborn](https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php) as well as at the fire department of my hometown [Stadt Waldeck](https://www.waldeck-stadt.de/) where
@@ -95,32 +95,29 @@ experiences:
         Analysis, planning, and implementation of software tools for statics calculations of lightweight metal constructions. Microsoft .Net Framework-based client applications.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Research and Innovation Projects
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: "5GTANGO"
+        link: "https://5gtango.eu/"
+        tagline: "5G development and validation platform for global industry-specific network services and apps. An European 5GPPP founded project. Runtime: 2017 - 2020."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: "SONATA NFV"
+        link: "http://sonata-nfv.eu/"
+        tagline: "Agile service development and orchestration in 5G virtualized networks. An European 5GPPP founded project. Runtime: 2015 - 2017."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: "GreenTouch"
+        link: "http://www.greentouch.org/"
+        tagline: "GreenTouch: Mission to deliver the architecture, specifications and roadmap to increase network energy efficiency by a factor of 1000 compared to 2010 levels. An ICT industry consortium founded project. Runtime: 2014 - 2015."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: "Communicate Green"
+        link: "http://www.communicate-green.de/"
+        tagline: "A national BMWi founded project. Runtime: 2013 - 2014."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: "Scalable and Adaptive Internet Solutions (SAIL)"
+        link: "https://sail-project.eu"
+        tagline: "An European FP7 founded project. Runtime: 2012 - 2013."
 
 publications:
     title: Publications
