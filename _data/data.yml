@@ -96,7 +96,7 @@ experiences:
 
 projects:
     title: Research and Innovation Projects
-    intro:
+    intro: I was involved in the following research and innovation projects.
 
     assignments:
       - title: "5GTANGO"
@@ -115,9 +115,19 @@ projects:
         link: "http://www.communicate-green.de/"
         tagline: "A national BMWi founded project. Runtime: 2013 - 2014."
 
-      - title: "Scalable and Adaptive Internet Solutions (SAIL)"
+      - title: "SAIL"
         link: "https://sail-project.eu"
-        tagline: "An European FP7 founded project. Runtime: 2012 - 2013."
+        tagline: "Scalable and Adaptive Internet Solutions (SAIL). An European FP7 founded project. Runtime: 2012 - 2013."
+
+opensourceprojects:
+    title: Open-Source Projects
+    intro: I am involved into the following open-source projects.
+
+    assignments:
+      - title: "Containernet"
+        link: "https://containernet.github.io/"
+        tagline: "Containernet is a fork of the famous Mininet network emulator and allows to use Docker containers as hosts in emulated network topologies. Role: Founder and lead developer."
+
 
 publications:
     title: Publications
