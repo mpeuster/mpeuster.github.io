@@ -7,15 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Manuel Peuster, M.Sc.
+    name: Manuel Peuster
     tagline: Cloud and Network Researcher
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: mp.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: manuel@peuster.de
     phone: 
     website: #do not add http://
-    linkedin: alandoe
+    linkedin: peuster
     github: mpeuster
     gitlab:
     bitbucket:
@@ -53,7 +53,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
+    - degree: M.Sc. in Computer Science
       university: University of London
       time: 2011 - 2012
       details: |
@@ -66,7 +66,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
+    - degree: B.Sc. in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
       details: |
