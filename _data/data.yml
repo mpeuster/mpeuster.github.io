@@ -35,7 +35,7 @@ sidebar:
       - item: Motorcycling
         link:
 
-      - item: Mountainbiking
+      - item: Mountain Biking
         link:
 
       - item: Firefighting
@@ -44,13 +44,16 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am a cloud and network researcher at Paderborn University, Germany. My research focusses on network softwarization
+      and in particular on network function virtualization (NFV), software defined networks (SDN), mobile networks and 5G, as well as
+      benchmarking and performance prediction of distributed systems. I was involved in several European research and innovation projects,
+      such as [SONATA-NFV](https://sonata-nfv.github.io/) and [5GTANGO]https://5gtango.eu/) as well as industry-supported open-source
+      projects, such as [OpenSource MANO](https://osm.etsi.org/). I am leading multiple open-source projects such as [Containernet]() and [SNDZoo]()
+      and have more than ten years experience as software developer in various areas.
 
-      Second paragraph if required.
+      In my spare time I love to ride motorbikes and being an active volunteer firefighter.
+      I volunteer at the fire department of the city of [Paderborn]() as well as well as at the fire department of my hometown [Stadt Waldeck]() where
+      I also act as president of the local fire house's booster club.
 
 education:
     - degree: PhD in Computer Science
