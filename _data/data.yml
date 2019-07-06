@@ -75,37 +75,24 @@ education:
         Thesis "Defining and Deploying Complex Appliances in Multi-Site Cloud Environments", Grade 1.9
 
 experiences:
-    - role: PhD researcher
+    - role: PhD Researcher
       time: 2015 - present
-      company: Paderborn University, Paderborn
+      company: Paderborn University, Germany
       details: |
         Research areas: Network function virtualization (NFV), software defined networks (SDN), 5G network architectures, mobile networks.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Student Research Assistant
+      time: 2012-2014
+      company: Paderborn University, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Worked as a student assistant in several national and international research projects.
+        Developed several research prototypes and simulation frameworks in the areas of cloud computing and mobile networks.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Developer
+      time: 2004 - 2014
+      company: Conpatec Software GbR, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Analysis, planning, and implementation of software tools for statics calculations of lightweight metal constructions. Microsoft .Net Framework-based client applications.
 
 projects:
     title: Projects
