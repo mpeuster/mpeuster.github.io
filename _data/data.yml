@@ -47,71 +47,39 @@ career-profile:
       I am a cloud and network researcher at Paderborn University, Germany. My research focusses on network softwarization
       and in particular on network function virtualization (NFV), software defined networks (SDN), mobile networks and 5G, as well as
       benchmarking and performance prediction of distributed systems. I was involved in several European research and innovation projects,
-      such as [SONATA-NFV](https://sonata-nfv.github.io/) and [5GTANGO]https://5gtango.eu/) as well as industry-supported open-source
-      projects, such as [OpenSource MANO](https://osm.etsi.org/). I am leading multiple open-source projects such as [Containernet]() and [SNDZoo]()
+      such as [SONATA-NFV](https://sonata-nfv.github.io/) and [5GTANGO](https://5gtango.eu/) as well as industry-supported open-source
+      projects, such as [OpenSource MANO](https://osm.etsi.org/). I am leading multiple open-source projects such as [Containernet](https://containernet.github.io/) and [SNDZoo](https://sndzoo.github.io/)
       and have more than ten years experience as software developer in various areas.
 
       In my spare time I love to ride motorbikes and being an active volunteer firefighter.
-      I volunteer at the fire department of the city of [Paderborn]() as well as well as at the fire department of my hometown [Stadt Waldeck]() where
-      I also act as president of the local fire house's booster club.
+      I volunteer at the fire department of the city of [Paderborn](https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php) as well as at the fire department of my hometown [Stadt Waldeck](https://www.waldeck-stadt.de/) where
+      I also serve as president of the local [fire house's booster club](http://www.feuerwehr-nieder-werbe.de/).
 
 education:
     - degree: PhD in Computer Science
       university: Paderborn University
       time: 2015 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Topic "Enhancing Network Service Development and Deployment using the DevOps Approach"
   
     - degree: MSc in Computer Science
       university: Paderborn University
       time: 2012 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Thesis "An Architecture and Testbed for Energy Efficient On-demand Mobile Network Management", Grade 1.1 with honors
 
     - degree: BSc in Computer Science
       university: Paderborn University
       time: 2008 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Thesis "Defining and Deploying Complex Appliances in Multi-Site Cloud Environments", Grade 1.9
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: PhD researcher
+      time: 2015 - present
+      company: Paderborn University, Paderborn
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        Research areas: Network function virtualization (NFV), software defined networks (SDN), 5G network architectures, mobile networks.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
