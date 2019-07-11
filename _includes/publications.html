@@ -16,11 +16,23 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
+  International Journal publications:
+
+  {% for publication in publications.journals %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="publication-conference">{{ publication.published_in }}</div>
+  </div><!--//item-->
+  {% endfor %}
+  
+  Peer-reviewed conference publications:
+
+  {% for publication in publications.conferences %}
+  <div class="item">
+    <div class="publication-title">{{ publication.title }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.published_in }}</div>
   </div><!--//item-->
   {% endfor %}
 

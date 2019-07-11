@@ -136,18 +136,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    journals:
+      - title: "DevOps for Network Function Virtualisation: An Architectural Approach"
+        authors: "Karl, H., Dräxler, S., Peuster, M., Galis, A., Bredel, M., Ramos, A., Martrat, J., Siddiqui, M.S., Van Rossem, S., Tavernier, W. and Xilouris, G."
+        published_in: "Transactions on Emerging Telecommunications Technologies, 27(9), pp.1206-1215"
+        year: 2016
+        link: "http://onlinelibrary.wiley.com/doi/10.1002/ett.3084/full"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    conferences:
+      - title: "A Topology-Aware Adaptive Deployment Framework for Elastic Applications"
+        authors: "Keller, M., Peuster, M., Robbert, C. and Karl, H."
+        published_in: "In 2013 17th International Conference on Intelligence in Next Generation Networks (ICIN) (pp. 61-69). IEEE"
+        year: 2013
+        link: "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6670895"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
