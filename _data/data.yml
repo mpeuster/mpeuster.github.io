@@ -132,9 +132,7 @@ opensourceprojects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I have authored and co-authored more than 30 research papers in international journals as well as in peer-reviewed conferences.
 
     journals:
       - title: "DevOps for Network Function Virtualisation: An Architectural Approach"
