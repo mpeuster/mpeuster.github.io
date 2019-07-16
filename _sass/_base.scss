@@ -213,6 +213,11 @@ p {
         }
     }
 
+    .publication-subheader{
+        font-size: 16px;
+        color: $text-grey;
+        margin-bottom: 15px;
+    }
     .publication-title {
         //font-size: 16px;
         font-weight: 400;
@@ -224,12 +229,12 @@ p {
         color: $text-grey;
         font-size: small;
         margin-bottom: 1px;
-        margin-left: 24px;
+        margin-left: 30px;
     }
     .publication-conference {
         color: $text-color;
         font-size: small;
-        margin-left: 24px;
+        margin-left: 30px;
     }
     .publications-section {
         .intro {
