@@ -219,12 +219,7 @@ p {
         margin-bottom: 15px;
     }
     .publication-counter{
-        width: 32px;
-        display: inline-block;
-        //border: 1px solid red;
-    }
-    .publication-title-span{
-        display: inline-block;
+        color: $text-grey;
     }
     .publication-title {
         //font-size: 16px;
@@ -237,12 +232,12 @@ p {
         color: $text-grey;
         font-size: small;
         margin-bottom: 1px;
-        margin-left: 32px;
+        //margin-left: 16px;
     }
     .publication-conference {
         color: $text-color;
         font-size: small;
-        margin-left: 32px;
+        //margin-left: 16px;
     }
     .publications-section {
         .intro {

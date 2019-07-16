@@ -22,7 +22,7 @@
   {% for publication in publications.journals %}
   {% assign i = i | plus:1 %}
   <div class="item">
-    <div class="publication-title"><span class="publication-counter">[J{{ i }}]</span><span class="publication-title-span"><a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></span></div>
+    <div class="publication-title"><span class="publication-counter">[J{{ i }}]</span> <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.published_in }}</div>
   </div><!--//item-->
@@ -34,7 +34,7 @@
   {% for publication in publications.conferences %}
   {% assign i = i | plus:1 %}
   <div class="item">
-    <div class="publication-title"><span class="publication-counter">[C{{ i }}]</span><span class="publication-title-span"><a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></span></div>
+    <div class="publication-title"><span class="publication-counter">[C{{ i }}]</span> <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.published_in }}</div>
   </div><!--//item-->
