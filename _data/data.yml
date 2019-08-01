@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Manuel Peuster
-    tagline: Cloud and Network Researcher
-    avatar: mp.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Systems, Cloud, and Networking Researcher
+    avatar: mp2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: manuel@peuster.de
@@ -32,24 +32,29 @@ sidebar:
         level: Professional
   
     interests:
+      - item: (Volunteer) Firefighting
+        link:
+
+      - item: Cooking
+        link:
+
       - item: Motorcycling
         link:
 
       - item: Mountain Biking
         link:
 
-      - item: Firefighting
-        link:
+      
 
 career-profile:
     title: About me
     summary: |
-      I am a cloud and network researcher at Paderborn University, Germany. My research focusses on network softwarization
-      and in particular on network function virtualization (NFV), software defined networks (SDN), mobile networks and 5G, as well as
+      Hello! I am Manuel Peuster, a systems, cloud, and networking researcher at Paderborn University, Germany. My research focusses on network softwarization
+      and in particular on network function virtualization (NFV), software defined networks (SDN), 5G, and industrial Internet of things (IIoT) as well as
       benchmarking and performance prediction of distributed systems. I was involved in several European research and innovation projects,
       such as [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/) as well as industry-supported open-source
       projects, such as [OpenSource MANO](https://osm.etsi.org/). I am leading multiple open-source projects such as [Containernet](https://containernet.github.io/) and [SNDZoo](https://sndzoo.github.io/)
-      and have more than ten years of experience as software developer in various areas.
+      and have more than 15 years of experience as software developer in various areas.
 
       In my spare time I love to ride motorbikes and being an active volunteer firefighter.
       I volunteer at the fire department of the city of [Paderborn](https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php) as well as at the fire department of my hometown [Stadt Waldeck](https://www.waldeck-stadt.de/) where
@@ -310,26 +315,26 @@ publications:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Technologies
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Programming (Python, C, C++, C#, ...)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Software Architecture
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: DevOps & Automation
+        level: 80%
+
+      - name: Conteiner Tech. (Docker, Kubernets)
+        level: 80%
+
+      - name: Cloud Stacks (OpenStack, AWS, Azure)
+        level: 75%
+
+      - name: Project Management
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
