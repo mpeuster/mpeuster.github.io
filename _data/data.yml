@@ -327,7 +327,7 @@ skills:
       - name: DevOps & Automation
         level: 80%
 
-      - name: Conteiner Tech. (Docker, Kubernets)
+      - name: Container Tech. (Docker, Kubernets)
         level: 80%
 
       - name: Cloud Stacks (OpenStack, AWS, Azure)
