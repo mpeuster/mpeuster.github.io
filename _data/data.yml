@@ -84,7 +84,7 @@ experiences:
       time: 2015 - present
       company: Paderborn University, Germany
       details: |
-        Research areas: Network function virtualization (NFV), software defined networks (SDN), 5G network architectures, mobile networks.
+        Research areas: Network function virtualization (NFV), software defined networks (SDN), 5G network architectures and wireless access networks, Industrial Internet of things (IIoT).
 
     - role: Student Research Assistant
       time: 2012-2014
@@ -97,7 +97,21 @@ experiences:
       time: 2004 - 2014
       company: Conpatec Software GbR, Germany
       details: |
-        Analysis, planning, and implementation of software tools for statics calculations of lightweight metal constructions. Microsoft .Net Framework-based client applications.
+        Requirements analysis, design, and implementation of software tools for statics calculations of lightweight metal constructions based on the Microsoft .Net Framework.
+
+awards:
+  - name: "Best Student Paper Award"
+    time: 06/2018
+    location: Montreal, Canada
+    details: 4th IEEE Conference on Network Softwarization (NetSoft)
+  - name: "Outstanding Technical Contributor "
+    time: 10/2017
+    location: Madrid, Spain
+    details: European Telecommunication Standards Institute (ETSI) OpenSource MANO (OSM)
+  - name: "Best Demo Award"
+    time: 06/2017
+    location: Bologna, Italy
+    details: 3rd IEEE Conference on Network Softwarization (NetSoft)
 
 projects:
     title: Research and Innovation Projects
@@ -106,33 +120,50 @@ projects:
     assignments:
       - title: "5GTANGO"
         link: "https://5gtango.eu/"
-        tagline: "5G development and validation platform for global industry-specific network services and apps. An European 5GPPP founded project. Runtime: 2017 - 2020."
-
+        details: '"5G development and validation platform for global industry-specific network ser- vices and apps"'
+        founding: European, Horzion 2020
+        time: 2017 - 2020
       - title: "SONATA NFV"
         link: "http://sonata-nfv.eu/"
-        tagline: "Agile service development and orchestration in 5G virtualized networks. An European 5GPPP founded project. Runtime: 2015 - 2017."
-
+        details: '"Agile service development and orchestration in 5G virtualized networks"'
+        founding: European, Horzion 2020
+        time: 2015 - 2017
       - title: "GreenTouch"
         link: "http://www.greentouch.org/"
-        tagline: "GreenTouch: Mission to deliver the architecture, specifications and roadmap to increase network energy efficiency by a factor of 1000 compared to 2010 levels. An ICT industry consortium founded project. Runtime: 2014 - 2015."
-
+        details: '"Mission to deliver the architecture, specifications, and roadmap to increase net- work energy efficiency by a factor of 1000 compared to 2010 levels"'
+        founding: ICT industry consortium
+        time: 2014 - 2015
       - title: "Communicate Green"
         link: "http://www.communicate-green.de/"
-        tagline: "A national BMWi founded project. Runtime: 2013 - 2014."
-
+        details: '"Implementing an adaptive, context-aware and technology-comprehensive power management in radio networks"'
+        founding: BMWi
+        time: 2013 - 2014
       - title: "SAIL"
         link: "https://sail-project.eu"
-        tagline: "Scalable and Adaptive Internet Solutions (SAIL). An European FP7 founded project. Runtime: 2012 - 2013."
+        details: '"Research and development of novel networking technologies using proof-of- concept prototypes to lead the way to the network of the future"'
+        founding: European, FP7
+        time: 2012 - 2013
 
 opensourceprojects:
     title: Open-Source Projects
     intro: I am involved into the following open-source projects.
 
     assignments:
+      - title: "The Softwarized Network Data Zoo (SNDZoo)"
+        link: "https://sndzoo.github.io/"
+        details: "Founder and lead developer of the SNDZoo project, a collection of open data sets to support machine learning research in the NFV and SDN domain."
+        founding:
+        time: 2015 - now
+      - title: "Open Source MANO (OSM)"
+        link: "https://osm.etsi.org"
+        details: "Contributor to the OSM project and lead developer of its emulator platform. OSM is an European Telecommunication Standards Institute (ETSI) project developing an open-source management and orchestration (MANO) system."
+        founding:
+        time: 2017 - now
       - title: "Containernet"
         link: "https://containernet.github.io/"
-        tagline: "Containernet is a fork of the famous Mininet network emulator and allows to use Docker containers as hosts in emulated network topologies. Role: Founder and lead developer."
-
+        details: "Founder and lead developer of Containernet, a fork of Mininet that allows to use Docker containers as part of complex network emulations."
+        founding:
+        time: 2015 - now
 
 publications:
     title: Publications
@@ -313,6 +344,9 @@ publications:
       #  year: 0
       #  link: "link"
 
+reviews:
+  - title: "the name"
+    year: 2018
 
 skills:
     title: Skills &amp; Technologies
