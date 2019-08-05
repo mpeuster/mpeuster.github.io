@@ -45,6 +45,10 @@ sidebar:
       - item: IoT
         icon: fa-robot
         link:
+      
+      - item: Software Architecture
+        icon: fa-drafting-compass
+        link:
 
       - item: DevOps
         icon: fa-terminal
