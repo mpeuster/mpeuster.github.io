@@ -32,16 +32,37 @@ sidebar:
         level: Professional
   
     interests:
-      - item: (Volunteer) Firefighting
+      - item: Cloud Computing
+        icon: fa-cloud
+        link: 
+
+      - item: NFV & SDN
+        icon: fa-server
         link:
 
+      - item: IIoT
+        icon: fa-robot
+        link:
+
+      - item: DevOps
+        icon: fa-terminal
+        link:
+
+    hobbies:
+      - item: (Volunteer) Firefighting
+        icon: fa-fire-extinguisher
+        link: https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php
+
       - item: Cooking
+        icon: fa-utensils
         link:
 
       - item: Motorcycling
+        icon: fa-motorcycle
         link:
 
       - item: Mountain Biking
+        icon: fa-bicycle
         link:
 
       
@@ -375,5 +396,4 @@ skills:
       - name: Project Management
         level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
