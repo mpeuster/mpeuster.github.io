@@ -373,8 +373,34 @@ publications:
       #  link: "link"
 
 reviews:
-  - title: "the name"
+  - title: "European Workshop on Software Defined Networks (EWSDN)"
+    year: 2015
+  - title: "IEEE Journal on Selected Areas in Communications (JSAC)"
+    year: 2015
+  - title: "IEEE Conference on Network Softwarization (NetSoft)"
+    year: 2015
+  - title: "IEEE International Conference on Sensing, Communication, and Netowrking (SECON)"
+    year: 2015
+  - title: "IEEE Transactions on Mobile Computing (TMC)"
+    year: 2015
+  - title: "IEEE Wireless Communications and Networking Conference (WCNC)"
+    year: 2015
+  - title: "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)"
+    year: 2015
+  - title: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
+    year: 2016
+  - title: "Workshop on Software-Driven Flexible and Agile Networking (INFOCOM Workshops)"
+    year: 2016
+  - title: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
+    year: 2017
+  - title: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
     year: 2018
+  - title: "Advances in Science, Technology and Engineering Systems Journal (ASTESJ)"
+    year: 2019
+  - title: "IEEE Communications Standards Magazine"
+    year: 2019
+  - title: "IEEE Communications Magazine"
+    year: 2019
 
 skills:
     title: Skills &amp; Technologies
