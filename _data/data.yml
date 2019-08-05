@@ -16,6 +16,7 @@ sidebar:
     phone: 
     website: #do not add http://
     linkedin: peuster
+    xing: Manuel_Peuster
     github: mpeuster
     gitlab:
     bitbucket:
@@ -23,6 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    googleschoolar: https://scholar.google.de/citations?user=M39N8Y4AAAAJ&hl=en
 
     languages:
       - idiom: German
