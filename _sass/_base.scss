@@ -266,6 +266,17 @@ p {
 }
 
 
+.menu {
+    .menu-wrapper {
+        background-color: #fff; 
+        border: 3px solid #f00;
+    }
+    .menu-item {
+        border: 2px dotted #0f0;
+    }
+}
+
+
 .skillset {
     .item {
         margin-bottom: 15px;
