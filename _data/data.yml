@@ -178,7 +178,7 @@ publications:
         link: "https://doi.org/10.1002/ett.3084"
       - title: "Joint testing and profiling of microservice-based network services using TTCN-3"
         authors: "Peuster, M., Dröge, C., Boos, C. and Karl, H."
-        published_in: "ICT Express, 5(2), pp.150-153."
+        published_in: "ICT Express, 5(2), pp.150-153. ScienceDirect."
         year: 2019
         link: "https://doi.org/10.1016/j.icte.2019.02.001"
       - title: "A flow handover protocol to support state migration in softwarized networks"
@@ -188,12 +188,12 @@ publications:
         link: "https://doi.org/10.1002/nem.2067"
       - title: "Empowering Network Service Developers: Enhanced NFV DevOps and Programmable MANO"
         authors: "Soenen, T., Tavernier, W., Peuster, M., Vicens, F., Xilouris, G., Kolometsos, S., Kourtis, M.A. and Colle, D."
-        published_in: "IEEE Communications Magazine, 57(5), pp.89-95."
+        published_in: "IEEE Communications Magazine, 57(5), pp.89-95. IEEE."
         year: 2019
         link: "https://doi.org/10.1109/MCOM.2019.1800810"
       - title: "Introducing Automated Verification and Validation for Virtualized Network Functions and Services"
         authors: "Peuster, M., Schneider, S., Zhao, M., Xilouris, G., Trakadas, P., Vicens, F., Tavernier, W., Soenen, T., Vilalta, R., Andreou, G. and Kyriazis, D."
-        published_in: "IEEE Communications Magazine, 57(5), pp.96-102."
+        published_in: "IEEE Communications Magazine, 57(5), pp.96-102. IEEE."
         year: 2019
         link: "https://doi.org/10.1109/MCOM.2019.1800873"
       - title: "Automated testing of NFV orchestrators against carrier-grade multi-PoP scenarios using emulation-based smoke testing"
@@ -338,6 +338,11 @@ publications:
         published_in: "In IEEE 17th International Conference on Industrial Informatics (IEEE-INDIN), Helsinki, Finnland. IEEE."
         year: 2019
         link: "TODO"
+      - title: "The Softwarised Network Data Zoo"
+        authors: "Peuster M., Schneider S., Karl H."
+        published_in: "IEEE/IFIP 15th International Conference on Network and Service Management (CNSM), Halifax, Canada. IEEE/IFIP."
+        year: 2019
+        link: "https://arxiv.org/abs/1905.04962"
       #- title: "title"
       #  authors: "authors"
       #  published_in: "published"
