@@ -76,16 +76,18 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Hello! I am Manuel Peuster, a systems, cloud, and networking researcher at Paderborn University, Germany. My research focusses on network softwarization
-      and in particular on network function virtualization (NFV), software defined networks (SDN), 5G, and industrial Internet of things (IIoT) as well as
-      benchmarking and performance prediction of distributed systems. I was involved in several European research and innovation projects,
-      such as [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/) as well as industry-supported open-source
-      projects, such as [OpenSource MANO](https://osm.etsi.org/). I am leading multiple open-source projects such as [Containernet](https://containernet.github.io/) and [SNDZoo](https://sndzoo.github.io/)
-      and have more than 15 years of experience as software developer in various areas.
+      Manuel Peuster is a systems, cloud, and networking researcher based in Germany. His research interests include network softwarization
+      (NFV/SDN), 5G and next generation networks, Internet of things (IoT), as well as
+      benchmarking and performance prediction of distributed systems. He was involved in several publicly-founded [research and innovation projects](projects.html),
+      like [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/). He is an active contributor to 
+      [OpenSource MANO](https://osm.etsi.org/) and leads several open-source [projects](projects.html), such as [Containernet](https://containernet.github.io/).
+      Manuel has (co-) authored and published more than [30 research papers](publications.html) in international journals and in peer-reviewed conferences and has 
+      more than 15 years of experience as software developer in various areas.
 
-      In my spare time I love to ride motorbikes and being an active volunteer firefighter.
-      I volunteer at the fire department of the city of [Paderborn](https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php) as well as at the fire department of my hometown [Stadt Waldeck](https://www.waldeck-stadt.de/) where
-      I also serve as president of the local [fire house's booster club](http://www.feuerwehr-nieder-werbe.de/).
+      In his spare time he enjoys riding motorbikes and is an active volunteer firefighter 
+      at the fire department of the city of [Paderborn](https://www.paderborn.de/microsite/feuerwehr/ehrenamt/loeschzuege/Loeschzug-Stadtheide.php) 
+      as well as at the fire department of his hometown [Stadt Waldeck](https://www.waldeck-stadt.de/) where
+      he also serves as president of the local [fire house's booster club](http://www.feuerwehr-nieder-werbe.de/).
 
 education:
     - degree: PhD in Computer Science
