@@ -384,65 +384,51 @@ talks:
 
     assignments:
       - title: "Paper presentation: BCG2 architecture"
-        link: ""
+        link: "TODO"
         location: "ATC workshop, ACM SIGCOMM, London, GB"
-        data: 08/2015
+        date: 08/2015
       - title: "Project demonstration: BCG2"
-        link: ""
         location: "GreenTouch final event, New York, US"
-        data: 06/2015
+        date: 06/2015
       - title: "Project presentation: SONATA NFV"
-        link: ""
         location: "NFV Workshop, Leibniz University Hannover, DE"
-        data: 10/2015
+        date: 10/2015
       - title: "Technology demonstration: BCG2"
-        link: ""
         location: "IEEE INFOCOM, San Francisco, US"
-        data: 04/2016
+        date: 04/2016
       - title: "Paper presentation: E-State"
-        link: ""
         location: "IEEE NetSoft, Seoul, KR"
-        data: 06/2016
+        date: 06/2016
       - title: "Paper presentation: NFV profiling"
-        link: ""
         location: "EWSDN, The Hague, NL"
-        data: 10/2016
+        date: 10/2016
       - title: "SONATA SDK: Rapid prototyping of network services"
-        link: ""
         location: "SDN World Congress, The Hague, NL"
-        data: 10/2016
+        date: 10/2016
       - title: "Paper presentation: MeDICINE (now: vim-emu)"
-        link: ""
         location: "IEEE NFV-SDN, Palo Alto, US"
-        data: 11/2016
+        date: 11/2016
       - title: "Technology demonstration: vim-emu"
-        link: ""
         location: "IEEE NetSoft, Bologna, IT"
-        data: 07/2017
+        date: 07/2017
       - title: "Paper presentation: SFC profiling"
-        link: ""
         location: "IEEE NFV-SDN, Berlin, DE"
-        data: 11/2017
+        date: 11/2017
       - title: "Paper presentation: MANO smoke testing"
-        link: ""
         location: "EuCNC, Ljubljana, SI"
-        data: 06/2018
+        date: 06/2018
       - title: "Paper presentation: SHarP"
-        link: ""
         location: "IEEE NetSoft, Montreal, CA"
-        data: 06/2018
+        date: 06/2018
       - title: "Paper presentation: TC-P"
-        link: ""
         location: "IEEE/IFIP CNSM, Rom, IT"
-        data: 11/2018
+        date: 11/2018
       - title: "Draft presentation: VNF benchmarking methodology"
-        link: ""
         location: "IETF 104, Prague, CZ"
-        data: 03/2019
+        date: 03/2019
       - title: "Technology demonstration: 5GTANGO IIoT pilot"
-        link: ""
         location: "IEEE NetSoft, Paris, FR"
-        data: 06/2019
+        date: 06/2019
 
 reviews:
   - title: "European Workshop on Software Defined Networks (EWSDN)"
