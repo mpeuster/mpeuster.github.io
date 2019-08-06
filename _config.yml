@@ -2,9 +2,9 @@
 
 # Site Settings
 title: Manuel Peuster
-url: 'https://mpeuster.github.io'
+url: 'https://peuster.de'
 baseurl: '' # or '/'
-description: A beautiful Jekyll theme for creating resume
+description: A personal website.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
