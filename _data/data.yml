@@ -372,6 +372,16 @@ publications:
         published_in: "IEEE/IFIP 15th International Conference on Network and Service Management (CNSM), Halifax, Canada. IEEE/IFIP."
         year: 2019
         link: "https://arxiv.org/abs/1905.04962"
+      - title: "Reproducible Functional Tests for Multi-scale Network Services"
+        authors: "Nuriddinov A., Tavernier W., Colle D., Pickavet M., Peuster M., Schneider S."
+        published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE."
+        year: 2019
+        link: "TODO"
+      - title: "FOP4: Function Offloading Prototyping in Heterogeneous and Programmable Network Scenarios"
+        authors: "Moro D., Peuster M., Karl H., Capone A."
+        published_in: "IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE."
+        year: 2019
+        link: "TODO"
       #- title: "title"
       #  authors: "authors"
       #  published_in: "published"
