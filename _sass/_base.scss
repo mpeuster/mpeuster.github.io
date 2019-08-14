@@ -4,7 +4,13 @@ html {
 }
 
 body {
+    /*
+        'Roboto Slab', serif;
+        'Roboto', sans-serif;
+        'Roboto Mono', monospace;
+    */
     font-family: 'Roboto', sans-serif;
+    font-weight: 200;
     color: $text-color-secondary;
     background: $background-dark;
     font-size: 14px;
@@ -21,13 +27,14 @@ body {
 
 h1, h2, h3, h4, h5, h6  {
     font-weight: 700;
+    font-family: 'Roboto', sans-serif;
 }
 
 a {
-    color: darken($theme-color, 15%);
+    color: darken($theme-color, 20%);
     &:hover {
         text-decoration: underline;
-        color: darken($theme-color, 30%);
+        color: darken($theme-color, 80%);
     }
     &:focus {
         text-decoration: none;
@@ -59,6 +66,7 @@ p {
     width: 280px;
     height: 100%;
     min-height: 800px;
+    text-shadow: 1px 1px 3px #333;
     color: #fff;
     a {
         color: #fff;
@@ -282,6 +290,7 @@ p {
         padding-top: 0px;
         padding-right: 340px;
         text-align: left;
+        text-shadow: 1px 1px 3px #333;
     }
     a {
         background: $theme-color;
@@ -289,7 +298,7 @@ p {
         font-weight: 400;
         padding-top: 4px;
         padding-bottom: 4px;
-        margin-left: 0px;
+        margin-left: 4px;
         min-width: 120px;
         width: 146px;
         text-align: center;
@@ -334,8 +343,21 @@ p {
     padding-top: 30px;
     .copyright {
         line-height: 1.6;
-        color: $text-color-secondary;
+        color: #ccc;
         font-size: 13px;
+    }
+
+    a {
+        color: #ccc;
+        &:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+        &:focus {
+            color: #fff;
+            text-decoration: none;
+        }
+        
     }
 
     .fa-heart {
