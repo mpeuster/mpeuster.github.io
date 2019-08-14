@@ -279,7 +279,7 @@ p {
         /*border: 3px solid #f00;*/
         font-size: 16px;
         padding-left: 60px;
-        padding-top: 8px;
+        padding-top: 0px;
         padding-right: 340px;
         text-align: left;
     }
@@ -289,10 +289,9 @@ p {
         font-weight: 400;
         padding-top: 4px;
         padding-bottom: 4px;
-        padding-left: 8px;
-        padding-right: 8px;
-        margin-bottom: 4px;
-        min-width: 140px;
+        margin-left: 0px;
+        min-width: 120px;
+        width: 146px;
         text-align: center;
         text-transform: uppercase;
         &:hover {
