@@ -149,7 +149,7 @@ projects:
     assignments:
       - title: "5GTANGO"
         link: "https://5gtango.eu/"
-        details: '"5G development and validation platform for global industry-specific network ser- vices and apps"'
+        details: '"5G development and validation platform for global industry-specific network services and apps"'
         founding: European, Horzion 2020
         time: 2017 - 2020
       - title: "SONATA NFV"
@@ -159,7 +159,7 @@ projects:
         time: 2015 - 2017
       - title: "GreenTouch"
         link: "http://www.greentouch.org/"
-        details: '"Mission to deliver the architecture, specifications, and roadmap to increase net- work energy efficiency by a factor of 1000 compared to 2010 levels"'
+        details: '"Mission to deliver the architecture, specifications, and roadmap to increase network energy efficiency by a factor of 1000 compared to 2010 levels"'
         founding: ICT industry consortium
         time: 2014 - 2015
       - title: "Communicate Green"
@@ -169,7 +169,7 @@ projects:
         time: 2013 - 2014
       - title: "SAIL"
         link: "https://sail-project.eu"
-        details: '"Research and development of novel networking technologies using proof-of- concept prototypes to lead the way to the network of the future"'
+        details: '"Research and development of novel networking technologies using proof-of-concept prototypes to lead the way to the network of the future"'
         founding: European, FP7
         time: 2012 - 2013
 
