@@ -12,11 +12,10 @@
 
   <div class="wrapper">
     {% include sidebar.html %}
-    {% include menu.html %}
+    
     <div class="main-wrapper">
-        
-
-        {{ content }}
+      {% include menu.html %}
+      {{ content }}
     </div>
   </div>
 

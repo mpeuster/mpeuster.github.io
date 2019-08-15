@@ -179,7 +179,7 @@ p {
 
 .main-wrapper {
     background: #fff;
-    padding-top: 30px;
+    padding-top: 0px;
     padding-bottom: 30px;
     padding-left: 60px;
     padding-right: 340px;
@@ -284,23 +284,27 @@ p {
 .menu {
     .menu-wrapper {
         background: #fff; 
+        position: relative;
         /*border: 3px solid #f00;*/
         font-size: 16px;
-        padding-left: 60px;
+        /*padding-left: 60px;*/
+        /*padding-right: 340px;*/
+        margin-bottom: 30px;
         padding-top: 0px;
-        padding-right: 340px;
         text-align: left;
         text-shadow: 1px 1px 3px #333;
     }
     a {
+        position: relative;
         background: $theme-color;
         color: #fff;
         font-weight: 400;
         padding-top: 4px;
         padding-bottom: 4px;
-        margin-left: 4px;
-        min-width: 120px;
-        width: 146px;
+        margin-right: 1%;
+        margin-bottom: 4px;
+        min-width: 100px;
+        width: 24%;
         text-align: center;
         text-transform: uppercase;
         &:hover {
