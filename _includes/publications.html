@@ -24,7 +24,11 @@
   <div class="item">
     <div class="publication-title"><span class="publication-counter">[J{{ i }}]</span> <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
     <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}</div>
+    <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}
+        {% if publication.preprint %}
+        [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
+        {% endif %}
+    </div>
   </div><!--//item-->
   {% endfor %}
   
@@ -36,7 +40,11 @@
   <div class="item">
     <div class="publication-title"><span class="publication-counter">[C{{ i }}]</span> <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></div>
     <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}</div>
+    <div class="publication-conference">{{ publication.published_in }}, {{ publication.year }}
+        {% if publication.preprint %}
+        [<a href="{{ publication.preprint }}" target="_blank">preprint</a>]
+        {% endif %}
+    </div>
   </div><!--//item-->
   {% endfor %}
 

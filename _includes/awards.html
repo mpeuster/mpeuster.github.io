@@ -15,7 +15,13 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ award.name }}</h3>
+        <h3 class="job-title">
+          {% if award.link %}
+          <a href="{{ award.link }}" target="_blank">{{ award.name }}</a>
+          {% else %}
+          {{ award.name }}
+          {% endif %}
+          </h3>
         <div class="time">{{ award.location }}</div>
       </div><!--//upper-row-->
 
