@@ -378,13 +378,13 @@ publications:
         authors: "Peuster M., Schneider S., Behnke D., Müller M., Bök P-B., Karl H."
         published_in: "In IEEE 5th Conference on Network Softwarization (NetSoft), Paris, France. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://doi.org/10.1109/NETSOFT.2019.8806685"
         preprint: "https://ris.uni-paderborn.de/record/8792"
       - title: "Putting 5G into Production: Realizing a Smart Manufacturing Vertical Scenario"
         authors: "Schneider S., Peuster M., Behnke D., Müller M., Bök P-B., Karl H."
         published_in: "In IEEE European Conference on Networks and Communications (EuCNC), Valecia, Spain. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://doi.org/10.1109/EuCNC.2019.8802016"
         preprint: "https://ris.uni-paderborn.de/record/9270"
       - title: "5G as Key Technology for Networked Factories: Application of Vertical-specific Network Services for Enabling Flexible Smart Manufacturing"
         authors: "Müller M., Behnke D., Bök P-B., Peuster M., Schneider S., Karl H."
