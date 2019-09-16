@@ -407,6 +407,19 @@ publications:
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE"
         year: 2019
         link: "TODO"
+
+      - title: "Putting NFV into Reality: Physical Smart Manufacturing Testbed"
+        authors: "Müller M., Behnke D., Bök P-B., Schneider S., Peuster M., Karl H."
+        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) 5GSecAI2019 Workshop, Dallas, USA. IEEE"
+        year: 2019
+        link: "TODO"
+
+      - title: "NFV-driven intrusion detection for smart manufacturing"
+        authors: "Behnke D., Müller M., Bök P-B., Schneider S., Peuster M., Karl H., Rocha A., Mesquita M., Bonnet J."
+        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN) 5GSecAI2019 Workshop, Dallas, USA. IEEE"
+        year: 2019
+        link: "TODO"
+
       #- title: "title"
       #  authors: "authors"
       #  published_in: "published"
