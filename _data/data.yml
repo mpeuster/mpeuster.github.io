@@ -417,6 +417,16 @@ publications:
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA. IEEE"
         year: 2019
         link: "TODO"
+      - title: "Demonstrating FOP4: A Flexible Platform to Prototype NFV Offloading Scenarios"
+        authors: "Moro D., Peuster M., Karl H., Capone A."
+        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
+        year: 2019
+        link: "TODO"
+      - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
+        authors: "Schneider S., Peuster M., Hannemann K., Behnke D., Müller M., Bök P-B., Karl H."
+        published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
+        year: 2019
+        link: "TODO"
 
       #- title: "title"
       #  authors: "authors"
