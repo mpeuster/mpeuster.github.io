@@ -497,6 +497,10 @@ talks:
         location: "IEEE NetSoft, Paris, FR"
         date: 06/2019
         link: "https://netsoft2019.ieee-netsoft.org/"
+      - title: "Poster/paper presentation: Softwareized Network Data Zoo"
+        location: "IEEE/IFIP CNSM, Halifax, CA"
+        date: 10/2019
+        link: "http://www.cnsm-conf.org/2019/poster-sessions.html"
 
 reviews:
   - title: "European Workshop on Software Defined Networks (EWSDN)"
