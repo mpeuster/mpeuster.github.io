@@ -395,7 +395,7 @@ publications:
         authors: "Peuster M., Schneider S., Karl H."
         published_in: "In IEEE/IFIP 15th International Conference on Network and Service Management (CNSM), Halifax, Canada. IEEE/IFIP"
         year: 2019
-        link: "https://arxiv.org/abs/1905.04962"
+        link: "http://dl.ifip.org/db/conf/cnsm/cnsm2019/1570555677.pdf"
         preprint: "https://arxiv.org/abs/1905.04962"
       - title: "Reproducible Functional Tests for Multi-scale Network Services"
         authors: "Nuriddinov A., Tavernier W., Colle D., Pickavet M., Peuster M., Schneider S."
