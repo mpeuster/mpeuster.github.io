@@ -129,6 +129,10 @@ experiences:
         Requirements analysis, design, and implementation of software tools for statics calculations of lightweight metal constructions based on the Microsoft .Net Framework.
 
 awards:
+  - name: "Best Poster Award"
+    time: 10/2019
+    location: Halifax, Canada
+    link: "http://www.cnsm-conf.org/2019/index.html"
   - name: "Best Student Paper Award"
     time: 06/2018
     location: Montreal, Canada
