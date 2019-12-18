@@ -395,7 +395,7 @@ publications:
         authors: "Müller M., Behnke D., Bök P-B., Peuster M., Schneider S., Karl H."
         published_in: "In IEEE 17th International Conference on Industrial Informatics (IEEE-INDIN), Helsinki, Finnland. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://ris.uni-paderborn.de/record/15369"
       - title: "The Softwarised Network Data Zoo"
         authors: "Peuster M., Schneider S., Karl H."
         published_in: "In IEEE/IFIP 15th International Conference on Network and Service Management (CNSM), Halifax, Canada. IEEE/IFIP"
@@ -406,32 +406,34 @@ publications:
         authors: "Nuriddinov A., Tavernier W., Colle D., Pickavet M., Peuster M., Schneider S."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://ris.uni-paderborn.de/record/15372"
       - title: "FOP4: Function Offloading Prototyping in Heterogeneous and Programmable Network Scenarios"
         authors: "Moro D., Peuster M., Karl H., Capone A."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Dallas, USA. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://ris.uni-paderborn.de/record/15373"
+        preprint: "https://ris.uni-paderborn.de/record/15373"
       - title: "Putting NFV into Reality: Physical Smart Manufacturing Testbed"
         authors: "Müller M., Behnke D., Bök P-B., Schneider S., Peuster M., Karl H."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://ris.uni-paderborn.de/record/15375"
       - title: "NFV-driven intrusion detection for smart manufacturing"
         authors: "Behnke D., Müller M., Bök P-B., Schneider S., Peuster M., Karl H., Rocha A., Mesquita M., Bonnet J."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 5GSecAI2019 Workshop, Dallas, USA. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://ris.uni-paderborn.de/record/15376"
       - title: "Demonstrating FOP4: A Flexible Platform to Prototype NFV Offloading Scenarios"
         authors: "Moro D., Peuster M., Karl H., Capone A."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://ris.uni-paderborn.de/record/15374"
+        preprint: "https://ris.uni-paderborn.de/record/15374"
       - title: "Producing Cloud-Native: Smart Manufacturing Use Cases on Kubernetes"
         authors: "Schneider S., Peuster M., Hannemann K., Behnke D., Müller M., Bök P-B., Karl H."
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
         year: 2019
-        link: "TODO"
+        link: "https://ris.uni-paderborn.de/record/13292"
 
       #- title: "title"
       #  authors: "authors"
