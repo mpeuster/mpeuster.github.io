@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Manuel Peuster
+    name: Dr. Manuel Peuster
     tagline: Systems, Cloud, and Networking Researcher
     avatar: mp2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -76,12 +76,12 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Manuel Peuster is a systems, cloud, and networking researcher based in Germany. His research interests include network softwarization
+      Manuel Peuster holds a PhD in computer science from [Paderborn University](https://cs.uni-paderborn.de/en/). He is a systems, cloud, and networking researcher based in Germany. His research interests include network softwarization
       (NFV/SDN), 5G and next generation networks, Industrial Internet of things (IIoT), as well as
       benchmarking and performance prediction of distributed systems. He was involved in several publicly-founded [research and innovation projects](projects.html),
       like [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/). He is an active contributor to 
       [OpenSource MANO](https://osm.etsi.org/) and leads several open-source [projects](projects.html), such as [Containernet](https://containernet.github.io/).
-      Manuel has (co-) authored and published more than [30 research papers](publications.html) in international journals and in peer-reviewed conferences and has 
+      Manuel has (co-) authored and published more than [40 research papers](publications.html) in international journals and in peer-reviewed conferences and has 
       more than 15 years of experience as software developer in various areas.
 
       In his spare time he enjoys riding motorbikes and is an active volunteer firefighter 
@@ -90,11 +90,11 @@ career-profile:
       he also serves as president of the local [fire house's booster club](http://www.feuerwehr-nieder-werbe.de/page/view/static/vorstand).
 
 education:
-    - degree: PhD Candidate (Comp. Science)
+    - degree: PhD in Computer Science
       university: Paderborn University
-      time: 2015 - present
+      time: 2015 - 2020
       details: |
-        Topic "Enhancing Network Service Development and Deployment using the DevOps Approach"
+        Topic "Enhancing Development and Deployment of Softwarised Network Services"
   
     - degree: MSc in Computer Science
       university: Paderborn University
@@ -110,7 +110,7 @@ education:
 
 experiences:
     - role: Research Associate
-      time: 2015 - present
+      time: 2015 - 2020
       company: Paderborn University, Germany
       details: |
         Research areas: Network function virtualization (NFV), software defined networks (SDN), 5G network architectures and wireless access networks, Industrial Internet of things (IIoT), and benchmarking.
@@ -204,7 +204,7 @@ opensourceprojects:
 publications:
     title: Publications
     intro: |
-      I have authored and co-authored more than 30 research papers in international journals as well as in peer-reviewed conferences. You can find the full list of my publications on my [Google Scholar profile](https://scholar.google.de/citations?user=M39N8Y4AAAAJ&hl=en).
+      I have authored and co-authored more than 40 research papers in international journals as well as in peer-reviewed conferences. You can find the full list of my publications on my [Google Scholar profile](https://scholar.google.de/citations?user=M39N8Y4AAAAJ&hl=en).
 
     journals:
       - title: "DevOps for Network Function Virtualisation: An Architectural Approach"
