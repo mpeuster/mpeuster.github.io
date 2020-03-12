@@ -434,6 +434,16 @@ publications:
         published_in: "In IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Demo, Dallas, USA. IEEE"
         year: 2019
         link: "https://ris.uni-paderborn.de/record/13292"
+      - title: "Benchmarking and Profiling 5G Verticals' Applications: an Industrial IoT Use Case"
+        authors: "Zafeiropoulos A., Fotopoulou E., Peuster M., Schneider S., Gouvas P., Behnke D., Müller M. Bök P-B., Trakadas P., Karkazis P., Karl H."
+        published_in: "In IEEE Conference on Network Softwarization (NetSoft), Ghent, Belgium. IEEE"
+        year: 2020
+        link: "https://ris.uni-paderborn.de/record/16222"
+      - title: "Machine Learning for Dynamic Resource Allocation in Network Function Virtualization"
+        authors: "Schneider S., Satheeschandran NP., Peuster M., Karl H."
+        published_in: "In IEEE Conference on Network Softwarization (NetSoft), Ghent, Belgium. IEEE"
+        year: 2020
+        link: "https://ris.uni-paderborn.de/record/16219"
 
       #- title: "title"
       #  authors: "authors"
