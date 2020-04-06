@@ -444,6 +444,11 @@ publications:
         published_in: "In IEEE Conference on Network Softwarization (NetSoft), Ghent, Belgium. IEEE"
         year: 2020
         link: "https://ris.uni-paderborn.de/record/16219"
+      - title: "Cloud-Native Threat Detection and Containment for Smart Manufacturing"
+        authors: "Müller M., Behnke D., Bök P-B., Schneider S., Peuster M., Karl H."
+        published_in: "In IEEE Conference on Network Softwarization (NetSoft), Demo, Ghent, Belgium. IEEE"
+        year: 2020
+        link: ""
 
       #- title: "title"
       #  authors: "authors"
