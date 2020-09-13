@@ -79,8 +79,8 @@ career-profile:
       Manuel Peuster holds a PhD in computer science from [Paderborn University](https://cs.uni-paderborn.de/en/), Germany. His research interests include network softwarization
       (NFV/SDN), 5G and next generation networks, Industrial Internet of things (IIoT), as well as
       benchmarking and performance prediction of distributed systems. He was involved in several publicly-founded [research and innovation projects](projects.html),
-      like [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/). He is an active contributor to 
-      [OpenSource MANO](https://osm.etsi.org/) and leads several open-source [projects](projects.html), such as [Containernet](https://containernet.github.io/).
+      like [SONATA-NFV](http://sonata-nfv.eu/) and [5GTANGO](https://5gtango.eu/). He was an active contributor to 
+      [OpenSource MANO](https://osm.etsi.org/) and founded several open-source [projects](projects.html), such as [Containernet](https://containernet.github.io/).
       Manuel has (co-) authored and published more than [40 research papers](publications.html) in international journals and in peer-reviewed conferences and has 
       more than 15 years of experience as software developer in various areas.
 
@@ -189,12 +189,12 @@ opensourceprojects:
         link: "https://sndzoo.github.io/"
         details: "Founder and lead developer of the SNDZoo project, a collection of open data sets to support machine learning research in the NFV and SDN domain."
         founding:
-        time: 2015 - now
+        time: 2015 - 2020
       - title: "Open Source MANO (OSM)"
         link: "https://osm.etsi.org"
         details: "Contributor to the OSM project and lead developer of its emulator platform. OSM is an European Telecommunication Standards Institute (ETSI) project developing an open-source management and orchestration (MANO) system."
         founding:
-        time: 2017 - now
+        time: 2017 - 2020
       - title: "Containernet"
         link: "https://containernet.github.io/"
         details: "Founder and lead developer of Containernet, a fork of Mininet that allows to use Docker containers as part of complex network emulations."
