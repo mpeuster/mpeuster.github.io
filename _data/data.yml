@@ -109,6 +109,13 @@ education:
         Thesis "Defining and Deploying Complex Appliances in Multi-Site Cloud Environments", Grade 1.9
 
 experiences:
+
+    - role: Cloud Platform Architect
+      time: 2020 - today
+      company: Information Security Industry
+      details: |
+        Further details upon request.
+
     - role: Research Associate
       time: 2015 - 2020
       company: Paderborn University, Germany
