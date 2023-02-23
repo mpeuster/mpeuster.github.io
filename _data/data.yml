@@ -567,21 +567,21 @@ skills:
 
     toolset:
       - name: Programming (Python, C, C++, C#, ...)
-        level: 95%
+        level: 90%
 
       - name: Software Architecture
         level: 90%
 
       - name: DevOps & Automation
-        level: 80%
+        level: 90%
 
       - name: Container Tech. (Docker, Kubernets)
-        level: 80%
+        level: 90%
 
-      - name: Cloud Stacks (OpenStack, AWS, Azure)
+      - name: Public and On-prem Cloud (AWS, Azure, GCP, OpenStack)
         level: 75%
 
       - name: Project Management
-        level: 70%
+        level: 80%
 
 
