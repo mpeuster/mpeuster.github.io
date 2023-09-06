@@ -108,10 +108,15 @@ education:
         Thesis "Defining and Deploying Complex Appliances in Multi-Site Cloud Environments", Grade 1.9
 
 experiences:
+    - role: Senior DevOps Engineer
+      time: 09/2023 - today
+      company: Industry 4.0, Remote
+      details: |
+        Further details upon request.
 
     - role: Cloud Platform Architect
-      time: 2020 - today
-      company: Information Security Industry
+      time: 03/2020 - 08/2023
+      company: McAfee (Skyhigh Security), Remote
       details: |
         Further details upon request.
 
