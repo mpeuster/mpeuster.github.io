@@ -534,6 +534,10 @@ talks:
         location: "IEEE/IFIP CNSM, Halifax, CA"
         date: 10/2019
         link: "http://www.cnsm-conf.org/2019/poster-sessions.html"
+      - title: "Into the Shopfloor: Moving Manufacturing Execution Systems to Kubernetes"
+        location: "KubeCon & CloudNativeCon Europe, London, GB"
+        date: 04/2025
+        link: https://www.youtube.com/watch?v=GgxRHpQIEfg
 
 reviews:
   - title: "European Workshop on Software Defined Networks (EWSDN)"
