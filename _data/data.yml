@@ -538,6 +538,9 @@ talks:
         location: "KubeCon & CloudNativeCon Europe, London, GB"
         date: 04/2025
         link: https://www.youtube.com/watch?v=GgxRHpQIEfg
+      - title: "Into the Shopfloor: Moving Manufacturing Execution Systems to Kubernetes"
+        location: "Bosch BoCSE, Renningen, DE"
+        date: 07/2025
 
 reviews:
   - title: "European Workshop on Software Defined Networks (EWSDN)"
