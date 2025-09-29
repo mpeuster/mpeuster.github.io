@@ -63,10 +63,6 @@ sidebar:
         icon: fa-wifi
         link: https://dl1p.eu
 
-      - item: Motorcycling
-        icon: fa-motorcycle
-        link:
-
       - item: Mountain Biking
         icon: fa-bicycle
         link:
@@ -108,7 +104,7 @@ education:
         Thesis "Defining and Deploying Complex Appliances in Multi-Site Cloud Environments", Grade 1.9
 
 experiences:
-    - role: Senior DevOps Engineer
+    - role: Lead DevOps Engineer
       time: 09/2023 - today
       company: Industry 4.0, Remote
       details: |
