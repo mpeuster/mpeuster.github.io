@@ -102,9 +102,15 @@ education:
       Thesis "Defining and Deploying Complex Appliances in Multi-Site Cloud Environments", Grade 1.9
 
 experiences:
+  - role: Senior Manager DevOps
+    time: 09/2025 - today
+    company: Skyhigh Security, Hybrid
+    details: |
+      Further details upon request.
+
   - role: Lead DevOps Engineer
-    time: 09/2023 - today
-    company: Industry 4.0, Remote
+    time: 09/2023 - 12/2025
+    company: Bosch Connected Industry, Remote
     details: |
       Further details upon request.
 
